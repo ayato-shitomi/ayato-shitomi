@@ -7,4 +7,4 @@ LITE inc. 所属 プログラマー・エンジニア<br>
 
 詳細は以下のポートフォリオをご覧ください。<br>
 https://ayato-shitomi.github.io/portfolio/
-<img src="./myPage.png" />
+<img src="./myPf.png" />
