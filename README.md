@@ -2,6 +2,7 @@
 
 <img src="https://assets.st-note.com/img/1651128377319-Bb26JrlKT0.jpg?width=2000&height=2000&fit=bounds&format=jpg&quality=85" />
 
+{: align="center"}
 2004年生まれ、札幌出身。<br>
 現在札幌の定時制高校に通う。
 `LITE inc.` 所属 プログラマー・エンジニア<br>
