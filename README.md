@@ -1,6 +1,6 @@
 # Ayato Shitomi(17)
 
-<img src="https://assets.st-note.com/img/1651128377319-Bb26JrlKT0.jpg?width=2000&height=2000&fit=bounds&format=jpg&quality=85" />
+<img src="git.jpg" />
 
 ## プロフィール
 
