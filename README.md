@@ -1,4 +1,4 @@
-# Ayato Shitomi(17)
+# Ayato Shitomi
 
 <img src="github.png" />
 
