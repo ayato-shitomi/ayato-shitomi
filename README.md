@@ -1,6 +1,6 @@
 # Ayato Shitomi(17)
 
-<img src="git.jpg" />
+<img src="git.png" />
 
 ## プロフィール
 
