@@ -22,6 +22,7 @@
 - 札幌大通高校
 - フランス発エンジニア養成機関 **42Tokyo** 本科生
 - 個人事業 **LabPixel Frameworks** 代表（2022年4月設立）
+- e-Sport Team **LabPixel Frameworks（LFW）** オーナー、選手
 - **株式会社イノベイト 寺子屋×ぷろぐれす** プログラミング教室講師
 - **I.T.LAB** CTO（Chief Technology Officer）
 
