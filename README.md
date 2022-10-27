@@ -2,6 +2,8 @@
 
 <img src="github.png" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## プロフィール
 
 #### 2004年 札幌出身。<br>面白いことが大好き。様々な「やりたいこと」を追求します。
