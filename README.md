@@ -18,6 +18,7 @@
 - **LITE Inc.** バックエンドエンジニア・プログラマー
 - 2022年10月29日 Apex Legends ANCスクリム 総合1位
 - WestSec CTF#11 優勝
+- Speed Dating CTF 2023 3位
 
 ## 現在
 
