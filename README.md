@@ -2,16 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=ayato-shitomi)
 
-
 <img src="github.png" />
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayato-shitomi&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ayato-shitomi&theme=onedark&show_icons=ture" />
 </p>
-
-
-
 
 ## プロフィール
 
