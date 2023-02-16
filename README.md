@@ -17,8 +17,8 @@
 - 札幌光星高校
 - **LITE Inc.** バックエンドエンジニア・プログラマー
 - 2022年10月29日 Apex Legends ANCスクリム 総合1位
-- WestSec CTF#11 優勝
-- Speed Dating CTF 2023 3位
+- WestSec CTF#11 **優勝**
+- Speed Dating CTF 2023 **3位**
 
 ## 現在
 
@@ -27,7 +27,9 @@
 - 個人事業 **LabPixel Frameworks** 代表（2022年4月設立）
 - e-Sport Team **LabPixel Frameworks（LFW）** オーナー、選手
 - **株式会社イノベイト 寺子屋×ぷろぐれす** プログラミング教室講師
+- **SmartHotelSolutions** インターン、セキュリティエンジニア
 - **I.T.LAB** CTO（Chief Technology Officer）
+- **CyberAgent バックエンドエンジニア**
 
 ## 各種サイト
 
