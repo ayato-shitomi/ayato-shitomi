@@ -1,5 +1,8 @@
 # Ayato Shitomi
 
+![](https://komarev.com/ghpvc/?username=ayato-shitomi)
+
+
 <img src="github.png" />
 
 <p align="left"> 
