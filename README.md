@@ -8,4 +8,4 @@ https://ayato-shitomi.github.io/portfolio/
 
 ![](https://komarev.com/ghpvc/?username=ayato-shitomi)
 
-![](https://img.shields.io/badge/Hardening-2022_2023-blue) ![](https://img.shields.io/badge/Security%20Camp-2023-yellow)
+![](https://img.shields.io/badge/Hardening-2022-blue) ![](https://img.shields.io/badge/Security%20Camp-2023-yellow)
