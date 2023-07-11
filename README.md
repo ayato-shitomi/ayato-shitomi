@@ -2,6 +2,8 @@
 
 https://ayato-shitomi.github.io/portfolio/
 
-## HACKER, RedTeam, Pentester ![](https://komarev.com/ghpvc/?username=ayato-shitomi)
+## HACKER, RedTeam, Pentester
 
 **面白いことが大好き✨**
+
+![](https://komarev.com/ghpvc/?username=ayato-shitomi)
