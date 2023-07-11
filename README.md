@@ -7,3 +7,5 @@ https://ayato-shitomi.github.io/portfolio/
 **面白いことが大好き✨**
 
 ![](https://komarev.com/ghpvc/?username=ayato-shitomi)
+
+![](https://img.shields.io/badge/Hardening-1-blue) ![](https://img.shields.io/badge/Security%20Camp-2023-yellow)
