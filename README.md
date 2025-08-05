@@ -1,6 +1,4 @@
-<a href="https://ayato-shitomi.github.io/portfolio/"> <img src="./portfolio.png"></img> </a>
-
-https://ayato-shitomi.github.io/portfolio/
+<a href="https://www.notion.so/labpixel/Ayato-Shitomi-379e76d7db9843efa2288acda03e0091"> <img src="./portfolio.png"></img> </a>
 
 ## HACKER, RedTeam, Pentester ![](https://komarev.com/ghpvc/?username=ayato-shitomi)
 
